@@ -1,0 +1,646 @@
+[ 2018-04-14T11:47:50+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.062000s][吞吐率：16.13req/s] [内存消耗：1,815.59kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T11:47:50+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.064000s][吞吐率：15.62req/s] [内存消耗：1,815.32kb] [文件加载：41]
+[ info ] [ LANG ] E:\php\phpstudy\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'dnt' => '1',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=2974618624',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ E:\php\phpstudy\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T11:47:50+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.065000s][吞吐率：15.38req/s] [内存消耗：1,814.41kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T12:19:32+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：6.338400s][吞吐率：0.16req/s] [内存消耗：1,833.02kb] [文件加载：42]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T12:19:32+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：6.340400s][吞吐率：0.16req/s] [内存消耗：1,832.74kb] [文件加载：42]
+[ info ] [ LANG ] E:\php\phpstudy\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'dnt' => '1',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=2974618624',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ E:\php\phpstudy\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T12:19:32+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：6.342400s][吞吐率：0.16req/s] [内存消耗：1,831.83kb] [文件加载：42]
+[ notice ] -----2
+
+[ 2018-04-14T18:01:13+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：3.018302s][吞吐率：0.33req/s] [内存消耗：1,833.10kb] [文件加载：42]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T18:01:13+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：3.020302s][吞吐率：0.33req/s] [内存消耗：1,832.83kb] [文件加载：42]
+[ info ] [ LANG ] E:\php\phpstudy\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'content-type' => 'application/json;charset=UTF-8',
+  'dnt' => '1',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=2974618624',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ E:\php\phpstudy\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T18:01:13+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：3.021302s][吞吐率：0.33req/s] [内存消耗：1,831.90kb] [文件加载：42]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:25+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.029000s][吞吐率：34.48req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:25+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.029000s][吞吐率：34.48req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:25+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.030000s][吞吐率：33.33req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:33+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:33+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:33+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:35+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:35+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:35+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:38+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:38+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:38+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:42+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:42+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:42+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:45+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:45+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:45+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:46+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:46+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:46+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:48+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:48+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:48+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:54+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:54+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:54+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:44:58+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:44:58+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:44:58+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:45:00+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:45:00+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:45:00+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:45:01+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,797.10kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:45:01+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,796.82kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:45:01+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：1,795.98kb] [文件加载：41]
+[ notice ] -----2
+
+[ 2018-04-14T23:45:33+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：12.502000s][吞吐率：0.08req/s] [内存消耗：1,799.67kb] [文件加载：41]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-14T23:45:34+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：13.445000s][吞吐率：0.07req/s] [内存消耗：1,799.40kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'accept' => 'application/json, text/plain, */*',
+  'origin' => 'http://www.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+  'content-type' => 'application/json;charset=UTF-8',
+  'referer' => 'http://www.test.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ D:\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-04-14T23:45:34+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：13.445000s][吞吐率：0.07req/s] [内存消耗：1,798.56kb] [文件加载：41]
+[ notice ] -----2
+

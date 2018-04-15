@@ -1,0 +1,40 @@
+[ 2018-04-11T09:47:30+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.043000s][吞吐率：23.26req/s] [内存消耗：1,296.55kb] [文件加载：35]
+[ notice ] post data{"type":2,"page":1}
+
+[ 2018-04-11T09:47:30+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.044000s][吞吐率：22.73req/s] [内存消耗：1,296.56kb] [文件加载：35]
+[ info ] [ LANG ] E:\php\phpstudy\phpStudy\WWW\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'App',
+    2 => 'getNews',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'postman-token' => '76b72425-1e7e-4029-859a-22d940d5643a',
+  'content-type' => 'application/json',
+  'user-agent' => 'PostmanRuntime/3.0.9',
+  'accept' => '*/*',
+  'host' => 'www.test.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '19',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'type' => 2,
+  'page' => 1,
+)
+[ info ] [ RUN ] app\user\controller\App->getNews[ E:\php\phpstudy\phpStudy\WWW\test\application\user\controller\App.php ]
+[ info ] [ LOG ] INIT File
+[ log ] hello������־��Ϣ
+
+---------------------------------------------------------------
+[ 2018-04-11T09:47:30+08:00 ] 127.0.0.1 127.0.0.1 POST /index.php/user/App/getNews
+[ log ] www.test.com/index.php/user/App/getNews [运行时间：0.045000s][吞吐率：22.22req/s] [内存消耗：1,295.57kb] [文件加载：35]
+[ notice ] -----2
+

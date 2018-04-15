@@ -1,0 +1,6 @@
+<?php
+//index模块自定义配置项
+return [
+	'my_name' => 'ycl',
+	'default_return_type'    => 'json',
+];
